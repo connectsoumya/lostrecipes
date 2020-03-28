@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+[![Build Status](https://travis-ci.org/connor-baer/summer.svg?branch=master)](https://travis-ci.org/connor-baer/summer) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/27e2b81c38004b4592c78ba82d48cef3)](https://www.codacy.com/app/connor_baer/summer?utm_source=github.com&utm_medium=referral&utm_content=connor-baer/summer&utm_campaign=Badge_Grade)
 
-You can use the [editor on GitHub](https://github.com/connectsoumya/lostrecipes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# 🍦 Summer
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Summer is a simple [Jekyll](http://jekyllrb.com) theme with a photo sidebar.
 
-### Markdown
+> ⚠️ This theme should work as-is, but is no longer actively maintained. [Contributions](#contributing) are welcome!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[![Summer screenshot](https://github.com/connor-baer/summer/blob/gh-pages/_images/screenshot.jpg)](https://connor-baer.github.io/summer)
 
-```markdown
-Syntax highlighted code block
+## Usage
 
-# Header 1
-## Header 2
-### Header 3
+You'll need to have [Jekyll](https://jekyllrb.com/), the `bundler` gem, and [`yarn`](https://yarnpkg.com/) (`npm` also works) installed on our computer. Summer provides a fully furnished Jekyll setup — just clone and install the dependencies:
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```bash
+# Ruby gems
+bundle install
+# Node modules
+yarn
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Then simply run `yarn start` to start the Jekyll server on port `4000`.
 
-### Jekyll Themes
+## Options
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/connectsoumya/lostrecipes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Summer includes some customizable options, applied via options in the `_config.yml` file. A standout feature is the dark theme.
+Have a look at the [`_config.yml`](_config.yml) file for all available options.
 
-### Support or Contact
+## Contributing
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**This theme is no longer actively maintained.** However, I welcome bug fixes and feature request through [pull requests](https://github.com/connor-baer/summer/compare). If you don't feel comfortable making code changes, feel free to [open an issue](https://github.com/connor-baer/summer/issues/new), perhaps somebody else will help out.
+
+## License
+
+Open sourced under the [MIT license](LICENSE.md).
+
+💛
