@@ -47,22 +47,22 @@ image: index-large.jpg
 logo: /assets/icons/apple-icon-144x144.png
 
 author:
-  name: Connor Bär
-  bio: Hi, I'm Connor, the author of this blog. Nice to meet you!
+  name: Soumya Shubhra Ghosh
+  bio:
   image: author
   url: https://connorbaer.co
   email: hello@connorbaer.co
   twitter: connor_baer
 
 social:
-  twitter: https://twitter.com/connor_baer
-  instagram: https://instagram.com/connor_baer
-  github: https://github.com/connor-baer/summer
+  twitter: https://twitter.com/lostauthenticrecipes
+  instagram: https://instagram.com/lostauthenticrecipes
+  facebook: https://facebook.com/lostauthenticrecipes
 
 version: 2.0.0
 
 github:
-  repo: https://github.com/connor-baer/summer
+  repo: https://github.com/connectsoumya/lostrecipes
 
 # Integrations
 # typekit:              fcv7rfe

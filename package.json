@@ -1,7 +1,7 @@
 {
-  "name": "summer",
+  "name": "Lost Authentic Recipes",
   "version": "2.0.0",
-  "description": "A simple Jekyll theme with a photo sidebar.",
+  "description": "The cookbook for all authentic recipes",
   "main": "index.html",
   "scripts": {
     "start": "gulp default",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/connor-baer/summer.git"
+    "url": "git+https://github.com/connectsoumya/lostrecipes.git"
   },
   "keywords": [
     "connor",
@@ -23,12 +23,12 @@
     "developer",
     "theme"
   ],
-  "author": "Connor Bär",
+  "author": "Soumya Shubhra Ghosh",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/connor-baer/summer/issues"
+    "url": "https://github.com/connectsoumya/lostrecipes"
   },
-  "homepage": "https://connor-baer.github.io/summer",
+  "homepage": "http://www.lostauthenticrecipes.com",
   "dependencies": {
     "list.js": "^1.5.0",
     "mappy-breakpoints": "^0.2.3",
