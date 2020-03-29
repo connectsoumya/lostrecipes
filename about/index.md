@@ -1,21 +1,27 @@
 ---
 layout: page
-title: About
+title: About Us
 lang: en
 ref: about
 ---
 
-> Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+> Hey there! Welcome to Lost Authentic Recipes
 
 ## Setup
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io), an amazing code editor
-* Designed and developed while listening to music like [Ludovico Einaudi](https://open.spotify.com/track/6sVuwzZ4MPsviUE8wfw2n1)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/madebyconnor/summer/issues/new) or [ask me on Twitter](https://twitter.com/connor_baer).
-
-Thanks for reading!
+My name is Suparna Chowdhury and I am very passionate about cooking. 
+When I was a teenager, I developed my interest in cooking. 
+I started cooking with simple recipes which didn’t involve a lot of spices or any complex steps. 
+With time, I learnt more about this art. 
+Now I make my everyday food, sometimes with my husband who is also a great cook. 
+We always share our knowledge with each other and improve our skills. 
+I prefer authentic recipes and make everything from scratch and that’s what I am going to teach you. 
+Cooking from scratch might sound a bit time consuming but trust me, it’s worth the time. 
+Every cuisine represents the culture of the country, but now a days people are so busy with their life that many people cannot even cook their daily meals. 
+In fact, some recipes are already lost. 
+For example, our grandparents in India used to make various pickles at home, but now most mothers cannot make such good pickles, forget about this generation. 
+I do a lot of research about food and learn the authentic way of cooking them. 
+Cooking is an art, which now-a-days are lost, thanks to the takeaways and frozen foods. 
+I want to revive the art of cooking and pass it to everyone. 
+Please visit my Youtube channel **LostAuthenticRecipes**.
+I will soon be launching an android application where you can find these recipes.
