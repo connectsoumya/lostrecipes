@@ -39,8 +39,8 @@ title: Summer
 tagline: 'Delicious & healthy recipes'
 description: 'A simple Jekyll theme with a photo sidebar.'
 keywords: 'connor, bär, designer, traveller, code, jekyll, developer, theme'
-url: https://connectsoumya.github.io
-baseurl: /lostrecipes
+url: ""
+baseurl: "lostrecipes"
 assets: /assets
 images: /images/
 image: index-large.jpg
