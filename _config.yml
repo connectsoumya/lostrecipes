@@ -35,7 +35,7 @@ compress_html:
 dark_theme: false
 
 # Site meta
-title: Summer
+title: Lost Authentic Recipes
 tagline: 'Delicious & healthy recipes'
 description: 'A simple Jekyll theme with a photo sidebar.'
 keywords: 'connor, bär, designer, traveller, code, jekyll, developer, theme'
@@ -50,9 +50,9 @@ author:
   name: Soumya Shubhra Ghosh
   bio:
   image: author
-  url: https://connorbaer.co
-  email: hello@connorbaer.co
-  twitter: connor_baer
+  url: https://lostauthenticrecipes.com
+  email: personalchefapp@gmail.com
+  twitter: lostauthenticrecipes
 
 social:
   twitter: https://twitter.com/lostauthenticrecipes
@@ -77,8 +77,8 @@ google_fonts:
 excerpt_separator: <!-- Read more -->
 
 navigation:
-  GitHub: https://github.com/connor-baer/summer
-  Download: https://github.com/connor-baer/summer/archive/gh-pages.zip
+  GitHub: https://github.com/connectsoumya/lostrecipes
+  Download: https://github.com/connectsoumya/lostrecipes
 
 collections:
   recipes:
