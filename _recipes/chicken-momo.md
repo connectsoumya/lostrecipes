@@ -4,7 +4,7 @@ ref: chicken-momo
 image: true
 time: 60
 category: meal
-tags:[non-vegeterian]
+tags:[non-vegeterian, momo]
 ingredients:
   - name: all purpose flour
     amount: 400
