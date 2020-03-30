@@ -51,7 +51,7 @@ author:
   name: Soumya Shubhra Ghosh
   bio:
   image: author
-  url: https://lostauthenticrecipes.com
+  url: http://www.lostauthenticrecipes.com
   email: personalchefapp@gmail.com
   twitter: lostauthenticrecipes
 
@@ -89,14 +89,16 @@ defaults:
   - scope:
       path: ''
       type: posts
-    values:
+      values:
       layout: post
       lang: en
+      resource: false
       permalink: /news/:title/
   - scope:
       path: ''
       type: recipes
-    values:
+      values:
       layout: recipe
       lang: en
+      resource: false
       permalink: /:title/

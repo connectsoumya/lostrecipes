@@ -4,11 +4,7 @@ ref: vanilla-crescents
 image: true
 time: 60
 category: snacks
-tags:
-  - cookies
-  - sweet
-  - christmas
-  - vegetarian
+tags:[cookies, sweet, christmas, vegetarian]
 ingredients:
   - name: all purpose flour
     amount: 250
