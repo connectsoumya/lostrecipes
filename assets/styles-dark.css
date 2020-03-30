@@ -991,7 +991,7 @@ textarea {
 
 .metabar.-white .metabar-title {
     color: #ff0000;
-    text-shadow: 0 0 3px rgba(248, 249, 250, .33)
+    text-shadow: 0 0 3px rgba(33, 37, 41, .33)
 }
 
 .metabar.-white .metabar-title:focus, .metabar.-white .metabar-title:hover {
@@ -1000,8 +1000,8 @@ textarea {
 
 @media (min-width: 36em) {
     .metabar.-white .nav-link a {
-        color: #212529;
-        text-shadow: 0 0 3px rgba(248, 249, 250, .33)
+        color: #ffffff;
+        text-shadow: 0 0 3px rgba(33, 37, 41, .33)
     }
 
     .metabar.-white .nav-link a:focus, .metabar.-white .nav-link a:hover {
