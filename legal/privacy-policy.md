@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Privacy Policy
-lang: en
+lang: en_GB
 ref: privacy-policy
 ---
 

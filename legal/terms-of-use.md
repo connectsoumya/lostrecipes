@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Terms of Use
-lang: en
+lang: en_GB
 ref: terms-of-use
 ---
 
