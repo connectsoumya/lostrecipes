@@ -1,45 +1,67 @@
 ---
-title: Austrian vanilla crescents
-ref: vanilla-crescents
+title: Chicken Momo
+ref: chicken-momo
 image: true
 time: 60
-category: snacks
+category: meal
 tags:
-  - cookies
-  - sweet
-  - christmas
-  - vegetarian
+  - non-vegetarian
 ingredients:
   - name: all purpose flour
+    amount: 400
+    unit: g
+  - name: chicken
+    amount: 2
+    unit: leg quarter
+  - name: onion
     amount: 250
     unit: g
-  - name: unsalted butter
-    amount: 200
+  - name: ginger
+    amount: 40
     unit: g
-  - name: finely ground almonds
-    amount: 100
+  - name: garlic
+    amount: 50
     unit: g
-  - name: large egg yolks
-    amount: 2
-    unit: null
-  - name: vanilla extract
-    amount: 1 1/4
-    unit: tsp
-  - name: milk
-    amount: 1
-    unit: tbsp
-  - name: powdered sugar
-    amount: 70
-    unit: g
-  - name: pinch of salt
+  - name: salt to taste
     amount: null
     unit: null
-  - name: icing sugar
-    amount: 100
-    unit: g
-  - name: vanilla sugar
+  - name: coriander
+    amount: 1/2
+    unit: tsp
+  - name: cumin
+    amount: 1/2
+    unit: tsp
+  - name: mustard oil
+    amount: 1
+    unit: tbsp
+  - name: cinnamon
+    amount: 1/2
+    unit: cm
+  - name: clove
+    amount: 5
+    unit: pcs
+  - name: cardamom
     amount: 2
-    unit: packages
+    unit: pcs
+  - name: sesame
+    amount: 4
+    unit: tbsp
+  - name: dried chillies
+    amount: 6
+    unit: pcs
+  - name: green chillies
+    amount: 4
+    unit: pcs
+  - name: lime 
+    amount: 1/4
+    unit: pcs
+  - name: vegetable oil
+    amount: 2
+    unit: tbsp
+  - name: water
+    amount: 1
+    unit: l
+    
 ---
 
 <figure>
