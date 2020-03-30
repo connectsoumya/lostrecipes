@@ -54,7 +54,7 @@ script:
 notifications:
   email:
     email:
-      - admin@connorbaer.co
+      - personalchefapp@gmail.com
 
 deploy:
   provider: pages
@@ -62,4 +62,4 @@ deploy:
   github-token: $GITHUB_TOKEN # Set in the settings page of your repository, as a secure variable
   keep-history: true
   on:
-    branch: master
+    branch: gh-pages
