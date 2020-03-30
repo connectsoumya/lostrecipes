@@ -3149,7 +3149,7 @@ textarea {
     }
 
     .recipe-hasBackground .metabar-title {
-        color: #fff;
+        color: #f00;
         text-shadow: 0 0 3px rgba(0, 0, 0, .33)
     }
 
