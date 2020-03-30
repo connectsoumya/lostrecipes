@@ -78,8 +78,8 @@ google_analytics_key: UA-162003932-1
 excerpt_separator: <!-- Read more -->
 
 navigation:
-  Cuisines: lostauthenticrecipes.com
-  Drinks: lostauthenticrecipes.com
+  Cuisines: /
+  Drinks: /
 
 collections:
   recipes:
