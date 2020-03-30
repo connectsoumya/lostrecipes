@@ -12,16 +12,21 @@
 			</div>
 			<div class="footer-links">
 				<h4 class="footer-title">Resources</h4>
-				<nav>
-					<ul class="nav">
-						<li class="nav-link">
-							<a href="http://www.lostauthenticrecipes.com/legal/" target="_blank" rel="noopener noreferrer">Privacy Policy</a>
-						</li>
-						<li class="nav-link">
-							<a href="http://www.lostauthenticrecipes.com/legal/" target="_blank" rel="noopener noreferrer">Terms of Use</a>
-						</li>
-					</ul>
-				</nav>
+				<ul class="nav">
+					{% assign entries = site.pages | where: "lang", "en_GB" | sort: "order" %}
+					{% for entry in entries %}
+					{% unless entry.exclude == true %}
+					<li class="nav-link">
+						<a class="{% if page.url == entry.url %} nav-active{% endif %}" href="{{ site.baseurl }}{{ entry.url }}" aria-label="{{ entry.title }}">{{ entry.title }}</a>
+					</li>
+					{% endunless %}
+					{% endfor %}
+					{% for entry in site.navigation %}
+					<li class="nav-link">
+						<a href="{{ entry[1] }}" aria-label="{{ entry[0] }}">{{ entry[0] }}</a>
+					</li>
+					{% endfor %}
+				</ul>
 			</div>
 		</div>
 		<h6 class="footer-text">© {{ site.time | date: '%Y' }} <a href="https://twitter.com/{{ site.author.twitter }}" aria-label="Follow {{ site.author.name }} on Twitter.">{{ site.author.name }}</a>. All rights reserved.</h6>
