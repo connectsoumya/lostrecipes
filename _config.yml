@@ -78,8 +78,8 @@ google_analytics_key: UA-162003932-1
 excerpt_separator: <!-- Read more -->
 
 navigation:
-  Cuisines: /
-  Drinks: /
+  Cuisines: lost
+  Drinks: lost
 
 collections:
   recipes:
