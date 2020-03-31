@@ -4,6 +4,7 @@ ref: chicken-momo
 image: true
 time: 60
 category: meal
+cuisine: Nepali
 tags:
   - non-vegetarian
 ingredients:
