@@ -6,26 +6,21 @@ time: 10
 category: drinks
 tags: [cold, fruit, vegetarian, alcohol, cocktail]
 ingredients:
-  -
-    name: vodka
-    amount: 50
-    unit: ml
-  -
-    name: lime
-    amount: 1
-    unit:
-  -
-    name: elderflower sugar syrup
-    amount: 10
-    unit: ml
-  -
-    name: physalis
-    amount: 5
-    unit:
-  -
-    name: Crushed ice
-    amount:
-    unit:
+  -name: vodka
+   amount: 50
+   unit: ml
+  -name: lime
+   amount: 1
+   unit:
+  -name: elderflower sugar syrup
+   amount: 10
+   unit: ml
+  -name: physalis
+   amount: 5
+   unit:
+  -name: Crushed ice
+   amount:
+   unit:
 ---
 
 ## Equipment
