@@ -19,7 +19,7 @@ ingredients:
     amount: 2
     unit: null
   - name: vanilla extract
-    amount: 1 1/4
+    amount: 1
     unit: tsp
   - name: milk
     amount: 1

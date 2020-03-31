@@ -3,7 +3,7 @@ title: 'Chicken Momo'
 ref: chicken-momo
 image: true
 time: 60
-category: meal
+category: dinner
 tags:[non-vegetarian, savoury]
 ingredients:
   - name: all purpose flour
