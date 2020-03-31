@@ -1,10 +1,10 @@
 ---
-title: Chicken Momo
+title: 'Chicken Momo'
 ref: chicken-momo
 image: true
 time: 60
 category: meal
-tags:[non-vegetarian]
+tags:[non-vegetarian, savoury]
 ingredients:
   - name: all purpose flour
     amount: 400
@@ -60,13 +60,14 @@ ingredients:
   - name: water
     amount: 1
     unit: l
-    
 ---
 
-
+Unlock the flavours of cauliflower with a red pepper, olive and caper salsa, topped with almonds. Healthy and vegan, it makes a tasty light lunch or supper.
 
 1. Cut butter into ½ inch cubes, then set aside in the freezer to keep cold. Meanwhile prepare the rest of the ingredients. Weigh the flour and set aside in the freezer or fridge as well. The colder the ingredients, the better. Grind walnuts very finely with a mouli grater (I couldn't find walnut meal). Don't use a food processor, the chopped pieces will still come out too big. Alternatively, use almond meal, which is also commonly used for baking Vanillekipferl in Austria.
 2. Put flour and butter in a food processor and pulse a couple of times until mixture resembles coarse crumbs. If you use a small food processor, you can do it in two batches.
 3. In a mixing bowl, mix egg yolks together with vanilla and milk, just until combined. Add butter crumbs, walnuts, sugar, and salt to the egg-mixture and stir until the ingredients come together to a dough. In the bowl, knead the dough with your hands until well combined, for about 30 seconds.
 
 ---
+
+_From [BBC Good Food](https://www.bbcgoodfood.com/recipes/cauliflower-steaks-roasted-red-pepper-olive-salsa)._
