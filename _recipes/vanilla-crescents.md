@@ -4,6 +4,7 @@ ref: vanilla-crescents
 image: true
 time: 60
 category: snacks
+cuisine: NA
 tags:
   - cookies
   - sweet

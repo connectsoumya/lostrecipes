@@ -4,6 +4,7 @@ ref: physalis-caipiroska
 image: true
 time: 10
 category: drinks
+cuisine: NA
 tags: [cold, fruit, vegetarian, alcohol, cocktail]
 ingredients:
   -

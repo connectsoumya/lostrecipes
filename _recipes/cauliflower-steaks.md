@@ -4,6 +4,7 @@ ref: cauliflower-steaks
 image: true
 time: 30
 category: lunch
+cuisine: NA
 tags: [vegan, vegetarian, quick]
 ingredients:
   - name: cauliflower

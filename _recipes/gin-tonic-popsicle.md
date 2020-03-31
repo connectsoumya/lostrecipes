@@ -4,6 +4,7 @@ ref: gin-tonic-popsicle
 image: true
 time: 5
 category: snacks
+cuisine: NA
 tags: [sweet, alcohol, dessert, cold]
 ingredients:
   - name: cucumber

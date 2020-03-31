@@ -64,7 +64,7 @@ function filterList() {
         }
     }
 
-    // Put the checked tags into an array.
+    // Put the checked cuisine into an array.
     for (let p = 0; p < checkOrigin.length; p += 1) {
         if (checkOrigin[p].checked) {
             const valueOrigin = checkOrigin[p].value;
@@ -73,9 +73,9 @@ function filterList() {
     }
 
     // Put the checked ingredients into an array.
-    for (let p = 0; p < checkIngredients.length; p += 1) {
-        if (checkIngredients[p].checked) {
-            const valueIngredients = checkIngredients[p].value;
+    for (let q = 0; q < checkIngredients.length; q += 1) {
+        if (checkIngredients[q].checked) {
+            const valueIngredients = checkIngredients[q].value;
             checkedIngredients.push(valueIngredients);
         }
     }

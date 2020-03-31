@@ -4,6 +4,7 @@ ref: salmon-burger
 image: true
 time: 45
 category: lunch
+cuisine: NA
 tags: [fish, burger]
 ingredients:
   - name: salmon, drained and flaked

@@ -4,6 +4,7 @@ ref: halloumi-watermelon-breadcrumbs
 image: true
 time: 45
 category: dinner
+cuisine: Greek
 tags: [salad, salty, vegetarian, fruit]
 ingredients:
   - name: watermelon

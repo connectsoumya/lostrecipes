@@ -4,6 +4,7 @@ ref: strawberry-ice-cream
 image: true
 time: 30
 category: snacks
+cuisine: Italian
 tags: [sweet, cold]
 ingredients:
   - name: punnet strawberries
