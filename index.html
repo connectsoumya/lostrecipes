@@ -99,7 +99,7 @@ exclude: true
                              style="background-image: url({{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/{% if page.image %}{{ page.ref }}-small.jpg{% elsif site.image %}{{ site.image }}{% endif %});"></div>
                         <div class="list-body">
                             <span class="list-category category">{{ page.category }}</span>
-                            <h4 class="list-header title">{{ page.title }}</h4>
+                            <h3 class="list-header title">{{ page.title }}</h3>
                             {% include custom/meta.html %}
                             <span class="list-ingredients ingredients"
                                   data-ingredients="{% for i in page.ingredients %}{{ i.name }}{% unless forloop.last %}, {% endunless %}{% endfor %}"></span>
