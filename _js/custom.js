@@ -112,7 +112,7 @@ function filterList() {
                 ).length > 0;
 
             // Check where item originates.
-            const origin =
+            const cuisine =
                 checkedOrigin.length === 0 ||
                 checkedOrigin.indexOf(item.values().cuisine) > -1;
 
@@ -128,7 +128,7 @@ function filterList() {
                 ).length > 0;
 
             // Show the item if it matches the filters.
-            if (category && duration && meat && origin && ingredients) {
+            if (category && duration && meat && cuisine && ingredients) {
                 return true;
             }
 
