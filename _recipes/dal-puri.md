@@ -4,6 +4,7 @@ ref: dal-puri
 image: true
 time: 90
 category: meal
+cuisine: Bengali
 tags: [vegan, vegetarian]
 ingredients:
   - name: chana dal

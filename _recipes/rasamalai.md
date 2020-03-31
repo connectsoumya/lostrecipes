@@ -4,6 +4,7 @@ ref: rasamalai
 image: true
 time: 90
 category: dessert
+cuisine: Bengali
 tags: [vegetarian, sweet]
 ingredients:
   - name: whole milk

@@ -5,6 +5,7 @@ image: true
 time: 180
 category: meal
 tags: [non-vegeterian, meat]
+cuisine: Bengali
 ingredients:
   - name: lamb or goat with bones
     amount: 1
