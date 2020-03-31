@@ -4,7 +4,11 @@ ref: vanilla-crescents
 image: true
 time: 60
 category: snacks
-tags:[cookies, sweet, christmas, vegetarian]
+tags:
+  - cookies
+  - sweet
+  - christmas
+  - vegetarian
 ingredients:
   - name: all purpose flour
     amount: 250
@@ -19,7 +23,7 @@ ingredients:
     amount: 2
     unit: null
   - name: vanilla extract
-    amount: 1
+    amount: 1 1/4
     unit: tsp
   - name: milk
     amount: 1
@@ -84,5 +88,3 @@ The coating for Vanillekipferl consists of powdered sugar mixed with vanilla sug
 </figure>
 
 1. Now roll out your next batch of dough, but don't put the dough crescents on a warm baking sheet. I always arrange them onto a sheet of parchment paper with a big cutting board underneath and transfer the paper onto the sheet just before baking. Or you use 2 or 3 separate sheets for baking them, especially if you have some helpers (recommended!). When completely cool, store crescents in an airtight container or cookie box.
-
----
