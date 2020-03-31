@@ -114,13 +114,7 @@ function filterList() {
             // Check where item originates.
             const origin =
                 checkedOrigin.length === 0 ||
-                checkedOrigin.filter(
-                    n =>
-                        item
-                            .values()
-                            .tags.split(', ')
-                            .indexOf(n) !== -1
-                ).length > 0;
+                checkedOrigin.indexOf(item.values().cuisine) > -1;
 
             // Check if item has the ingredient.
             const ingredients =
