@@ -16,11 +16,11 @@
 					<ul class="nav">
 						{% assign entries = site.pages | where: "lang", page.lang | sort: "order" %}
 						{% for entry in entries %}
-						{% if entry.resource == true %}
+						{% unless entry.exclude == true %}
 						<li class="nav-link">
 							<a class="{% if page.url == entry.url %} nav-active{% endif %}" href="{{ site.baseurl }}{{ entry.url }}" aria-label="{{ entry.title }}">{{ entry.title }}</a>
 						</li>
-						{% endif %}
+						{% endunless %}
 						{% endfor %}
 						{% for entry in site.navigation %}
 						<li class="nav-link">

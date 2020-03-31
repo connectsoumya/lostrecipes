@@ -3,7 +3,6 @@ layout: page
 title: Privacy Policy
 lang: en
 ref: privacy-policy
-resource: true
 exclude: true
 ---
 

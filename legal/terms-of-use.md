@@ -3,7 +3,6 @@ layout: page
 title: Terms of Use
 lang: en
 ref: terms-of-use
-resource: true
 exclude: true
 ---
 
