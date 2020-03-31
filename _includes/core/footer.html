@@ -14,7 +14,7 @@
 				<h4 class="footer-title">Resources</h4>
 				<nav>
 					<ul class="nav">
-						{% assign entries = site.pages | where: "lang", page.lang | sort: "order" %}
+						{% assign entries = site.pages | where: "resource", true | sort: "order" %}
 						{% for entry in entries %}
 						{% unless entry.exclude == true %}
 						<li class="nav-link">
