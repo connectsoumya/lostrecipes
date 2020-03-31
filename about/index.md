@@ -8,6 +8,7 @@ ref: about
 > Hey there! Welcome to Lost Authentic Recipes
 
 
+
 My name is Suparna Chowdhury and I am very passionate about cooking. 
 When I was a teenager, I developed my interest in cooking. 
 I started cooking with simple recipes which didn’t involve a lot of spices or any complex steps. 
