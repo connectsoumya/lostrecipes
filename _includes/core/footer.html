@@ -14,13 +14,13 @@
 				<h4 class="footer-title">Resources</h4>
 				<nav>
 					<ul class="nav">
-						{% assign entries = site.pages | where: "resource", true | sort: "order" %}
+						{% assign entries = site.pages | where: "lang", page.lang | sort: "order" %}
 						{% for entry in entries %}
-						{% unless entry.exclude == true %}
+						{% if entry.resource == true %}
 						<li class="nav-link">
 							<a class="{% if page.url == entry.url %} nav-active{% endif %}" href="{{ site.baseurl }}{{ entry.url }}" aria-label="{{ entry.title }}">{{ entry.title }}</a>
 						</li>
-						{% endunless %}
+						{% endif %}
 						{% endfor %}
 						{% for entry in site.navigation %}
 						<li class="nav-link">
