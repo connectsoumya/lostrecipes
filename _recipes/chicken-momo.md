@@ -6,7 +6,8 @@ time: 60
 category: meal
 cuisine: Nepali
 tags:
-  - non-vegetarian
+  - meat
+  - soup
 ingredients:
   - name: all purpose flour
     amount: 400

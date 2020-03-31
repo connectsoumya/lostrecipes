@@ -4,7 +4,7 @@ ref: mutton-kosha
 image: true
 time: 180
 category: meal
-tags: [non-vegeterian, meat]
+tags: [meat, spicy]
 cuisine: Bengali
 ingredients:
   - name: lamb or goat with bones
