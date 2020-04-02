@@ -66,49 +66,23 @@ ingredients:
     
 ---
 
-<figure>
-  <img srcset="{{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/vanilla-crescents-1-large.jpg 2000w, {{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/vanilla-crescents-1.jpg 1000w, {{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/vanilla-crescents-1-small.jpg 500w" sizes="(min-width: 769px): 25vw, calc(100vw - 4rem)" src="{{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/vanilla-crescents-1.jpg" alt="You can substitute almond flour for the ground walnuts.">
-  <figcaption>You can substitute almond flour for the ground walnuts.</figcaption>
-</figure>
+1. In the steamer, add the chicken bones left out from the minced chicken, garlic, clove, onion, black pepper, and some thinly sliced cabbage. You can also add other vegetables of your choice. Add water, salt to taste, cover the steamer so that the steam doesn't escape  and let it boil.
 
-1. Cut butter into ½ inch cubes, then set aside in the freezer to keep cold. Meanwhile prepare the rest of the ingredients. Weigh the flour and set aside in the freezer or fridge as well. The colder the ingredients, the better. Grind walnuts very finely with a mouli grater (I couldn't find walnut meal). Don't use a food processor, the chopped pieces will still come out too big. Alternatively, use almond meal, which is also commonly used for baking Vanillekipferl in Austria.
-2. Put flour and butter in a food processor and pulse a couple of times until mixture resembles coarse crumbs. If you use a small food processor, you can do it in two batches.
-3. In a mixing bowl, mix egg yolks together with vanilla and milk, just until combined. Add butter crumbs, walnuts, sugar, and salt to the egg-mixture and stir until the ingredients come together to a dough. In the bowl, knead the dough with your hands until well combined, for about 30 seconds.
+2. Use the flour, a tablespoon of cooking oil (optional), water and salt to knead the dough. Add the water gradually so that you do not end up adding too much water. Dough should be semi fluffy. Now keep it aside and let it rest.
 
-<div class="gallery gallery-3">
-  <figure class="gallery-item">
-  <img srcset="{{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/vanilla-crescents-2-large.jpg 2000w, {{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/vanilla-crescents-2.jpg 1000w, {{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/vanilla-crescents-2-small.jpg 500w" sizes="(min-width: 769px): 25vw, calc(100vw - 4rem)" src="{{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/vanilla-crescents-2.jpg" alt="If the dough is too sticky to roll it out you can do that it a lightly floured surface.">
-  <figcaption>If the dough is too sticky to roll it out you can do that it a lightly floured surface.</figcaption>
-</figure>
-  <figure class="gallery-item">
-  <img srcset="{{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/vanilla-crescents-3-large.jpg 2000w, {{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/vanilla-crescents-3.jpg 1000w, {{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/vanilla-crescents-3-small.jpg 500w" sizes="(min-width: 769px): 25vw, calc(100vw - 4rem)" src="{{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/vanilla-crescents-3.jpg">
-</figure>
-  <figure class="gallery-item">
-  <img srcset="{{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/vanilla-crescents-4-large.jpg 2000w, {{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/vanilla-crescents-4.jpg 1000w, {{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/vanilla-crescents-4-small.jpg 500w" sizes="(min-width: 769px): 25vw, calc(100vw - 4rem)" src="{{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/vanilla-crescents-4.jpg">
-</figure>
-</div>
+3. Roast the cumin seeds, coriander seeds, cloves, green cardamom and cinnamon in a pan for 1-2 minutes (until you start to get the roasted flavour of the spices). Be careful not to burn it. Cool down the spices for about 5 minutes. Then use a mortar and pestle or spice grinder to grind the spices.
 
-1. Cut the dough in quarters, keep one and set the rest of the dough aside in the fridge. Cover the bowl so the dough won't get dry. Divide the dough into egg-sized pieces and roll out each of them with your hand into strands with about ½ inch diameter. Cut the strands in 2 inch long pieces. Roll out every piece about 3 – 3 ½ inch long and shape into a crescent. Make the ends slightly thinner, but not too thin as they will brown first. Arrange the shaped crescents on a baking sheet lined with parchment paper (makes the handling a lot easier), at least ½ inch apart.
-2. Bake the cookies in the center rack of the oven (I use rack 3 of 4 from bottom) in a 350 °F preheated oven for 13-15 minutes or until lightly colored. Don't let them color too much.
-3. For the coating: Mix sifted powdered sugar and vanilla sugar (granulated) until well combined. If using homemade vanilla sugar, mix most of it with the sifted powdered sugar, keeping a tiny amount aside in case you need more powdered sugar for the coating. Put the coating on a plate and prepare an empty plate for the finished Vanillekipferl. Meanwhile you can start rolling out the next batch.
+4. In a mixing bowl add minced chicken, chopped onion, 1 teaspoon of lime juice, 1 tablespoon of chopped garlic, 1 tablespoon of ginger paste (you can use mortar and pestle to make the ginger paste), 1-2 finely chopped green chillies, salt to taste, mustard oil and roasted spice powder and mix well. 
 
-The coating for Vanillekipferl consists of powdered sugar mixed with vanilla sugar. In Europe most people use vanilla sugar (vanilla flavored granulated sugar) instead of vanilla extract which you can buy in every store. In the US it's hard to find in supermarkets or it is super expensive. Here you will find some methods for making homemade vanilla sugar using vanilla extract OR vanilla bean.
+5. Now divide the dough into medium sized balls. Cover each dough ball with some flour so that they do not stick to the surface. Gently place each dough ball on a flat surface, and roll out the dough into a thin disc. Use the edges of a sharp glass or mason jar lid to cut out circles, roughly of 2.5 inch diameter. Stuff it with the fillings, fold and seal the edges by pressing with your fingers. Place the momos up in the steamer for 15 minutes. 
 
-1. Take out the baking sheet from the oven, removing the cookies immediately, so they don't continue baking. If you are using parchment paper, you can carefully remove the cookies along with the parchment paper. If not, remove them with a spatula and set them aside. Be careful, they break easily when they are hot.
+6. For momo chutney in a pan put 1 tablespoon of oil then add black paper , tomatoes, garlic, 20 g ginger, red chilies, salt to taste, 2 cloves of garlic, 1 teaspoon cumin, coriander leaf, fry around 2 minutes, then let it cool and shift to a grinder. Then add tamarind water or lime juice, 2 green chillies, red chillies which are soaked in lukewarm water for 5 minutes. Grind all the spices to a smooth paste and  chutney is ready.
 
-<div class="gallery gallery-2">
-  <figure class="gallery-item">
-  <img srcset="{{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/vanilla-crescents-5-large.jpg 2000w, {{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/vanilla-crescents-5.jpg 1000w, {{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/vanilla-crescents-5-small.jpg 500w" sizes="(min-width: 769px): 25vw, calc(100vw - 4rem)" src="{{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/vanilla-crescents-5.jpg">
-</figure>
-  <figure class="gallery-item">
-  <img srcset="{{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/vanilla-crescents-6-large.jpg 2000w, {{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/vanilla-crescents-6.jpg 1000w, {{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/vanilla-crescents-6-small.jpg 500w" sizes="(min-width: 769px): 25vw, calc(100vw - 4rem)" src="{{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/vanilla-crescents-6.jpg">
-</figure>
-</div>
 
-1. Let them cool for 1 minute, then put several crescents in the prepared sugar-vanilla mixture, roll them around until cover in sugar and transfer to a plate. Be careful not to break them (because then you have to eat them immediately ;-) The sugar will stick best, when the cookies are still warm at the moment of rolling them. Also don't touch them for too long on the same spot as this will yield in Vanillekipferl with fingerprings. If you did so, you can always sprinkle them with additional sugar when finished or before serving.
 
-<figure>
-  <img srcset="{{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/vanilla-crescents-7-large.jpg 2000w, {{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/vanilla-crescents-7.jpg 1000w, {{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/vanilla-crescents-7-small.jpg 500w" sizes="(min-width: 769px): 25vw, calc(100vw - 4rem)" src="{{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/vanilla-crescents-7.jpg">
-</figure>
 
-1. Now roll out your next batch of dough, but don't put the dough crescents on a warm baking sheet. I always arrange them onto a sheet of parchment paper with a big cutting board underneath and transfer the paper onto the sheet just before baking. Or you use 2 or 3 separate sheets for baking them, especially if you have some helpers (recommended!). When completely cool, store crescents in an airtight container or cookie box.
+
+
+
+
+
