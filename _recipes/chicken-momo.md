@@ -70,13 +70,13 @@ ingredients:
 
 2. Use the flour, a tablespoon of cooking oil (optional), water and salt to knead the dough. Add the water gradually so that you do not end up adding too much water. Dough should be semi fluffy. Now keep it aside and let it rest.
 
-3. Roast the cumin seeds, coriander seeds, cloves, green cardamom and cinnamon in a pan for 1-2 minutes (until you start to get the roasted flavour of the spices). Be careful not to burn it. Cool down the spices for about 5 minutes. Then use a mortar and pestle or spice grinder to grind the spices.
+3. Roast the cumin seeds, coriander seeds, cloves, green cardamom, some black pepper and cinnamon in a pan for 1-2 minutes (until you start to get the roasted flavour of the spices). Be careful not to burn it. Cool down the spices for about 5 minutes. Then use a mortar and pestle or spice grinder to grind the spices.
 
 4. In a mixing bowl add minced chicken, chopped onion, 1 teaspoon of lime juice, 1 tablespoon of chopped garlic, 1 tablespoon of ginger paste (you can use mortar and pestle to make the ginger paste), 1-2 finely chopped green chillies, salt to taste, mustard oil and roasted spice powder and mix well. 
 
 5. Now divide the dough into medium sized balls. Cover each dough ball with some flour so that they do not stick to the surface. Gently place each dough ball on a flat surface, and roll out the dough into a thin disc. Use the edges of a sharp glass or mason jar lid to cut out circles, roughly of 2.5 inch diameter. Stuff it with the fillings, fold and seal the edges by pressing with your fingers. Place the momos up in the steamer for 15 minutes. 
 
-6. For momo chutney in a pan put 1 tablespoon of oil then add black paper , tomatoes, garlic, 20 g ginger, red chilies, salt to taste, 2 cloves of garlic, 1 teaspoon cumin, coriander leaf, fry around 2 minutes, then let it cool and shift to a grinder. Then add tamarind water or lime juice, 2 green chillies, red chillies which are soaked in lukewarm water for 5 minutes. Grind all the spices to a smooth paste and  chutney is ready.
+6. For momo chutney in a pan put 1 tablespoon of oil then add black pepper, tomatoes, a small piece of ginger, red chilies, salt to taste, 2 cloves of garlic and 1 teaspoon cumin. Fry around 2 minutes, then let it cool and shift to a grinder. Then add tamarind water or lime juice, 2 green chillies, red chillies which are soaked in lukewarm water for 5 minutes. Grind all the spices to a smooth paste and  chutney is ready.
 
 
 
