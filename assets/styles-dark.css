@@ -1291,9 +1291,8 @@ textarea {
 
 .hero-title {
     color: #f1f3f5;
-    font-size: 1rem;
+    font-size: 2rem;
     font-weight: 200;
-    /*font*/
     line-height: 1.4;
     margin-bottom: 1rem
 }
