@@ -4,6 +4,7 @@ title: Terms of Use
 lang: en
 ref: terms-of-use
 exclude: true
+footer: true
 ---
 
 

@@ -66,7 +66,8 @@ ingredients:
     
 ---
 
-1. In the steamer, add the chicken bones left out from the minced chicken, garlic, clove, onion, black pepper, and some thinly sliced cabbage. You can also add other vegetables of your choice. Add water, salt to taste, cover the steamer so that the steam doesn't escape  and let it boil.
+
+1. Cut out the flesh from the leg quarters and finely mince the chicken. In the steamer, add the chicken bones left out from the minced chicken, garlic, clove, onion, black pepper, and some thinly sliced cabbage. You can also add other vegetables of your choice. Add water, salt to taste, cover the steamer so that the steam doesn't escape  and let it boil.
 
 2. Use the flour, a tablespoon of cooking oil (optional), water and salt to knead the dough. Add the water gradually so that you do not end up adding too much water. Dough should be semi fluffy. Now keep it aside and let it rest.
 
