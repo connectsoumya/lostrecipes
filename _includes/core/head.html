@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
     <link href="http://gmpg.org/xfn/11" rel="profile">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arizonia">
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-162003932-1"></script>
@@ -20,10 +21,6 @@
         gtag('set', {'user_id': 'USER_ID'}); // Set the user ID using signed-in user_id.
         gtag('config', 'UA-162003932-1');
     </script>
-
-    <link rel="stylesheet"
-          href="https://fonts.googleapis.com/css?family=Tangerine">
-
 
     <!-- Link to page translations -->
     {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %} {% for post in posts %}
@@ -94,5 +91,6 @@
 
     <!-- RSS -->
     {% feed_meta %} {% seo title=false %}
-    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
+    <link rel="stylesheet" type="text/css"
+          href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css"/>
 </head>
