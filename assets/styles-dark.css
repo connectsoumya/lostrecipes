@@ -23,6 +23,11 @@ figure {
     margin: 1em 40px
 }
 
+iframe {
+    margin-left: auto;
+    margin-right: auto;
+}
+
 hr {
     box-sizing: content-box;
     height: 0;
