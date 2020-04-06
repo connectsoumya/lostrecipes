@@ -69,6 +69,8 @@ ingredients:
 
 1. Cut out the flesh from the leg quarters and finely mince the chicken. In the steamer, add the chicken bones left out from the minced chicken, garlic, clove, onion, black pepper, and some thinly sliced cabbage. You can also add other vegetables of your choice. Add water, salt to taste, cover the steamer so that the steam doesn't escape  and let it boil.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZxzwUpGWQVU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 2. Use the flour, a tablespoon of cooking oil (optional), water and salt to knead the dough. Add the water gradually so that you do not end up adding too much water. Dough should be semi fluffy. Now keep it aside and let it rest.
 
 3. Roast the cumin seeds, coriander seeds, cloves, green cardamom, some black pepper and cinnamon in a pan for 1-2 minutes (until you start to get the roasted flavour of the spices). Be careful not to burn it. Cool down the spices for about 5 minutes. Then use a mortar and pestle or spice grinder to grind the spices.
