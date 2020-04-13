@@ -3,6 +3,7 @@ layout: page
 title: Thank you
 lang: en
 ref: thankyou
+exclude: true
 ---
 
 

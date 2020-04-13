@@ -3,6 +3,7 @@ layout: page
 title: Submission Failed
 lang: en
 ref: failed
+exclude: true
 ---
 
 
