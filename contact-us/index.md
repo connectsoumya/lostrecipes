@@ -13,6 +13,8 @@ document.getElementById("invisible-recaptcha-form").submit();
 }
 </script>
 
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
 <style>
 .grecaptcha-badge {
     display: none;
@@ -27,6 +29,8 @@ button.g-recaptcha {
     cursor: pointer;
 }
 </style>
+
+<div class="g-recaptcha" data-sitekey="6Lew3SMUAAAAAJ82QoS7gqOTkRI_dhYrFy1f7Sqy"></div>
 
 <div class="form-container">
   <form id="invisible-recaptcha-form" action="https://usebasin.com/f/3fe1f57d50e7" method="POST">
