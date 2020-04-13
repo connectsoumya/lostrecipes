@@ -60,7 +60,7 @@ ingredients:
 
 1. At first chop the onions, tomato, capsicum, ginger and garlic and set aside. After that, cut boneless chicken into small pieces. Heat a pan and add 50ml of cooking oil. Add green chillies and onion and fry for 2 minutes, then add chicken pieces and cook well. When the chicken is little bit cooked add cumin and coriander powder, salt to test and fry all the ingredients until it is cooked well. After that add capsicum and cook for 5 minutes. Now the chicken filling is ready. Set aside for cool down. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-zMvJ5gRx-k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/-zMvJ5gRx-k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 2. In the mean time we making dough for the flat bread. In a bowl add flour, 1tbsp of cooking oil, salt ½ tsp and mixed it well. After that add water and make a smooth dough. 
 
