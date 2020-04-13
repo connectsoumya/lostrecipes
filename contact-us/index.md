@@ -30,7 +30,6 @@ button.g-recaptcha {
 }
 </style>
 
-<div class="g-recaptcha" data-sitekey="6Lew3SMUAAAAAJ82QoS7gqOTkRI_dhYrFy1f7Sqy"></div>
 
 <div class="form-container">
   <form id="invisible-recaptcha-form" action="https://usebasin.com/f/3fe1f57d50e7" method="POST">
@@ -47,8 +46,8 @@ button.g-recaptcha {
 
     <label for="subject">Subject</label>
     <textarea id="subject" name="subject" placeholder="Let us know your thoughts. We appreciate positive thoughts as well as negative thoughts. If you want us to add a particular recipe, let us know. If you want to see your recipe here, let us know." style="height:200px"></textarea>
-
     
-    <button class="g-recaptcha" data- sitekey="6Lew3SMUAAAAAJ82QoS7gqOTkRI_dhYrFy1f7Sqy" data-callback='onSubmit' data-badge="inline">Submit</button>
+    <input type="submit" value="Submit">
+    <div class="g-recaptcha" data-sitekey="6Lew3SMUAAAAAJ82QoS7gqOTkRI_dhYrFy1f7Sqy"></div>
   </form>
 </div>
