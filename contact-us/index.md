@@ -12,6 +12,9 @@ ref: contact-us
   <form action="https://usebasin.com/f/3fe1f57d50e7">
     <label for="fname">Your Name</label>
     <input type="text" id="fname" name="firstname" placeholder="Your full name">
+    
+    <label for="country">Email</label>
+    <input type="email" id="email" name="email" placeholder="Your email">
 
     <label for="country">Country</label>
     <input type="text" id="fname" name="firstname" placeholder="Your full name">
