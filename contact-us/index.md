@@ -15,7 +15,16 @@ document.getElementById("invisible-recaptcha-form").submit();
 
 <style>
 .grecaptcha-badge {
-display: none;
+    display: none;
+}
+
+button.g-recaptcha {
+    background-color: #ff0000;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
 }
 </style>
 
@@ -27,7 +36,7 @@ display: none;
     <label for="country">Email</label>
     <input type="email" id="email" name="email" placeholder="Your email">
     
-    <input type="hidden" name="_gotcha"><input>
+    <input type="hidden" name="_gotcha">
 
     <label for="country">Country</label>
     <input type="text" id="fname" name="firstname" placeholder="Your country">

@@ -29,7 +29,7 @@ ingredients:
     amount: 1/2
     unit: tsp
   - name: overly ripe bananas
-    amount: 2
+    amount: 3
     unit: null
   - name: vanilla extract
     amount: 1
