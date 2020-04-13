@@ -7,7 +7,9 @@ ref: about
 
 > Hey there! Welcome to Lost Authentic Recipes
 
-
+Subscribe to our Youtube channel **[LostAuthenticRecipes]**.
+Follow us on Instagram **[@lostauthenticrecipes]**
+Follow us on Facebook **[Lost Authentic Recipes]**
 
 My name is Suparna Chowdhury and I am very passionate about cooking. 
 When I was a teenager, I developed my interest in cooking. 
@@ -23,5 +25,9 @@ For example, our grandparents in India used to make various pickles at home, but
 I do a lot of research about food and learn the authentic way of cooking them. 
 Cooking is an art, which now-a-days are lost, thanks to the takeaways and frozen foods. 
 I want to revive the art of cooking and pass it to everyone. 
-Please visit my Youtube channel **LostAuthenticRecipes**.
 I will soon be launching an android application where you can find these recipes.
+
+
+[LostAuthenticRecipes]: https://www.youtube.com/channel/UCBHk8EGYHmAYN2dYRv5RStQ?sub_confirmation=1
+[@lostauthenticrecipes]: https://www.instagram.com/lostauthenticrecipes
+[Lost Authentic Recipes]: https://www.facebook.com/Lost-Authentic-Recipes-105541647770491

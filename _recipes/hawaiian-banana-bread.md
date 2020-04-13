@@ -31,9 +31,6 @@ ingredients:
   - name: overly ripe bananas
     amount: 2
     unit: null
-  - name: pineapple
-    amount: 100
-    unit: grams
   - name: vanilla extract
     amount: 1
     unit: tsp
