@@ -2,7 +2,7 @@
 title: Hawaiian Banana Bread
 ref: hawaiian-banana-bread
 image: true
-time: 30
+time: 75
 category: snacks
 cuisine: Hawaiian
 tags:
@@ -47,7 +47,7 @@ ingredients:
 
 1. Will be updated in 3-4 days.
 
-<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/-zMvJ5gRx-k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-container"><iframe width="560" height="315" src="https://youtu.be/Ubc7N_CusSo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 2. Please stay tuned.
 
