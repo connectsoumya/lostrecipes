@@ -52,10 +52,11 @@ ingredients:
 
 3. Beat 2 eggs and add it to the mixing bowl.
 4. Add the sugar, salt, baking soda and the vanilla extract to the bowl.
-5. Chop some walnuts and add it as well.
-6. Now mix everything thoroughly. Check the consistency if it matches with the one shown in the video.
-7. Grease a loaf tin with butter and pour the mixture and let it settle. Pre-heat your oven to 180 C/350 F.
-8. Put it in the oven for 50 minutes. Once done, take it out and let it cool.
+5. Grind some cinnamon and filter out the fine powder using a seive. Pour 1 tsp on the fine powder in the bowl.
+6. Chop some walnuts and add it as well.
+7. Now mix everything thoroughly. Check the consistency if it matches with the one shown in the video.
+8. Grease a loaf tin with butter and pour the mixture and let it settle. Pre-heat your oven to 180 C/350 F.
+9. Put it in the oven for 50 minutes. Once done, take it out and let it cool.
 
 Your bread is now ready to eat. Slice your bread and enjoy.
 
