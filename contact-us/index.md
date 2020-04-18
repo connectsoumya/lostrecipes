@@ -26,7 +26,8 @@ button.g-recaptcha {
     padding: 12px 20px;
     border: none;
     border-radius: 4px;
-    cursor: pointer;
+    cursor: pointer;roid app in react
+    
 }
 </style>
 
