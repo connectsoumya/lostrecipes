@@ -33,6 +33,7 @@ ingredients:
 
 #### For malai
 1.  Heat the milk in a large saucepan until it boils. Keep stirring so that milk is not burning at the bottom. Add sweet condensed milk, crushed pistachio, almonds, and cardamom powder. Cook on medium heat until the milk is reduced to 2 cups.
+
 #### For the chunks
 2.  For sweet: Boil milk at medium flame in a large casserole. Keep stirring so that the milk at the bottom of the pan does not burn. Turn off the heat once the milk comes to a boil and add vinegar + water (mix vinegar and water) in small amounts until the milk is thoroughly curdled, stirring gently. As the milk curdles you'll see the water turning slightly green.
 3.  Using a cheesecloth to clear excess water from the channel and wash well under cold water, to eliminate the taste of acidic vinegar. Squeeze out the excess channel water. Let them rest 15 minutes. Knead it well with corn starch for 10 minutes and form into small cheese balls. Set it back and cover it.

@@ -3485,8 +3485,7 @@ textarea {
     position: relative;
     object-fit: cover;
     object-position: 100% 0;
-    width: 100%;
-    padding-bottom: 30px;
+    padding-bottom: 56.25%;
     padding-top: 30px;
     overflow: hidden;
 }
