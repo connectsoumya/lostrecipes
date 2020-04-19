@@ -1,0 +1,18 @@
+{
+  "lang": "en",
+  "dir": "",
+  "name": "Lost Authentic Recipes",
+  "short_name": "LAR",
+  "icons": [
+    {
+      "src": "\/assets\/icons\/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image\/png"
+    }
+  ],
+  "theme_color": "#1a1a1a",
+  "background_color": "#1a1a1a",
+  "start_url": "http://www.lostauthenticrecipes.com",
+  "display": "standalone",
+  "orientation": "natural"
+}

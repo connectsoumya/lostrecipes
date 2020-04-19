@@ -9,6 +9,7 @@
 
     <link href="http://gmpg.org/xfn/11" rel="profile">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arizonia">
+    <link rel="manifest" href="manifest.json">
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-162003932-1"></script>
@@ -22,6 +23,23 @@
         gtag('js', new Date());
         gtag('set', {'user_id': 'USER_ID'}); // Set the user ID using signed-in user_id.
         gtag('config', 'UA-162003932-1');
+    </script>
+
+    <script>
+        if ("serviceWorker" in navigator) {
+            if (navigator.serviceWorker.controller) {
+                console.log("An active service worker found, no need to register");
+            } else {
+                // Register the service worker
+                navigator.serviceWorker
+                    .register("/serviceworker.js", {
+                        scope: "./"
+                    })
+                    .then(function (reg) {
+                        console.log("Service worker has been registered for scope: " + reg.scope);
+                    });
+            }
+        }
     </script>
 
     <!-- Link to page translations -->
