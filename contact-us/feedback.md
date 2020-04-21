@@ -8,7 +8,8 @@ exclude: true
 
 > Let us know your thoughts.
 
-##### *This is an anonymous feedback form. Please do not submit any sensitive information.
+#### This is an anonymous feedback form. 
+#### Please do not submit any sensitive information.
 
 <script>
 function onSubmit(token) {
