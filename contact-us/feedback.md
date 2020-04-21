@@ -37,25 +37,26 @@ button.g-recaptcha {
 
 <div class="form-container">
   <form id="invisible-recaptcha-form" action="https://usebasin.com/f/3fe1f57d50e7" method="POST">
+      
     <label for="participation" style="color:#ffae2c">Did you participate in any Anyvision cooking session?</label><br>
-    <input type="radio" id="yes" name="yes" value="yes">
+    <input type="radio" id="yes" name="participated" value="yes">
     <label for="yes">Yes</label><br>
-    <input type="radio" id="no" name="no" value="no">
+    <input type="radio" id="no" name="participated" value="no">
     <label for="no">No</label><br>
     
     <label for="fname" style="color:#ffae2c">Feedback Recipe Name</label>
     <input type="text" id="recipename" name="recipename" placeholder="Name of the recipe for which you are providing feedback">
     
     <label for="cooked" style="color:#ffae2c">Did you cook the recipe?</label><br>
-    <input type="radio" id="yes" name="yes" value="yes">
+    <input type="radio" id="yes" name="cooked" value="yes">
     <label for="yes">Yes</label><br>
-    <input type="radio" id="no" name="no" value="no">
+    <input type="radio" id="no" name="cooked" value="no">
     <label for="no">No</label><br>
     
     <label for="food-good" style="color:#ffae2c">Was the food good?</label><br>
-    <input type="radio" id="yes" name="yes" value="yes">
+    <input type="radio" id="yes" name="food-good" value="yes">
     <label for="yes">Yes</label><br>
-    <input type="radio" id="no" name="no" value="no">
+    <input type="radio" id="no" name="food-good" value="no">
     <label for="no">No</label><br>
     
     <label for="food-habit" style="color:#ffae2c">You are</label><br>
@@ -68,10 +69,11 @@ button.g-recaptcha {
     
     <input type="hidden" name="_gotcha">
 
-    <label for="subject" style="color:#ffae2c">Suggestions and Comments</label>
+    <label for="comments" style="color:#ffae2c">Suggestions and Comments</label>
     <textarea id="comments" name="comments" placeholder="We appreciate positive as well as negative comments. If you want us to add a particular recipe, let us know." style="height:200px"></textarea>
     
-    <input type="submit" value="Submit">
     <div class="g-recaptcha" data-sitekey="6Lew3SMUAAAAAJ82QoS7gqOTkRI_dhYrFy1f7Sqy"></div>
+    
+    <input type="submit" value="Submit">
   </form>
 </div>
