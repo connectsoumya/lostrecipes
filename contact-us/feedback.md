@@ -6,8 +6,8 @@ ref: feedback
 exclude: true
 ---
 
-> Hey there! Let us know your thoughts so that we can get better.
-#### *This is an anonymous feedback form. Please do not submit any sensitive information.
+#### Hey there! Let us know your thoughts so that we can get better.
+##### *This is an anonymous feedback form. Please do not submit any sensitive information.
 <script>
 function onSubmit(token) {
 document.getElementById("invisible-recaptcha-form").submit();
@@ -35,7 +35,7 @@ button.g-recaptcha {
 
 <div class="form-container">
   <form id="invisible-recaptcha-form" action="https://usebasin.com/f/3fe1f57d50e7" method="POST">
-    <label for="country">Did you participate in any Anyvision cooking session?</label>
+    <label for="participation">Did you participate in any Anyvision cooking session?</label><br>
     <input type="radio" id="yes" name="yes" value="yes">
     <label for="yes">Yes</label><br>
     <input type="radio" id="no" name="no" value="no">
@@ -44,17 +44,29 @@ button.g-recaptcha {
     <label for="fname">Feedback Recipe Name</label>
     <input type="text" id="recipename" name="recipename" placeholder="Name of the recipe for which you are providing feedback">
     
-    <label for="food-habit">You are</label>
+    <label for="cooked">Did you cook the recipe?</label><br>
+    <input type="radio" id="yes" name="yes" value="yes">
+    <label for="yes">Yes</label><br>
+    <input type="radio" id="no" name="no" value="no">
+    <label for="no">No</label><br>
+    
+    <label for="food-good">Was the food good?</label><br>
+    <input type="radio" id="yes" name="yes" value="yes">
+    <label for="yes">Yes</label><br>
+    <input type="radio" id="no" name="no" value="no">
+    <label for="no">No</label><br>
+    
+    <label for="food-habit">You are</label><br>
     <input type="radio" id="veg" name="food-habit" value="veg">
     <label for="male">Vegeterian</label><br>
     <input type="radio" id="non-veg" name="food-habit" value="non-veg">
     <label for="non-veg">Non-vegeterian</label><br>
     <input type="radio" id="vegan" name="food-habit" value="vegan">
-    <label for="vegan">Vegan</label>
+    <label for="vegan">Vegan</label><br>
     
     <input type="hidden" name="_gotcha">
 
-    <label for="subject">Comments</label>
+    <label for="subject">Suggestions and Comments</label>
     <textarea id="comments" name="comments" placeholder="We appreciate positive as well as negative comments. If you want us to add a particular recipe, let us know." style="height:200px"></textarea>
     
     <input type="submit" value="Submit">
