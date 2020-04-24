@@ -54,7 +54,7 @@ ingredients:
     unit: tsp
 ---
 
-#### This curry goes best with [__*Hing Kachori*__](www.lostauthenticrecipes.com/hing-kachori) or [__*Dal Puri*__](www.lostauthenticrecipes.com/dal-puri).
+##### This curry goes best with [__*Hing Kachori*__](www.lostauthenticrecipes.com/hing-kachori) or [__*Dal Puri*__](www.lostauthenticrecipes.com/dal-puri).
 
 1. Boil or soak half cup of chana dal strain the water and set aside. 
 
