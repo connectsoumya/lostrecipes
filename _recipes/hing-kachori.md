@@ -7,12 +7,12 @@ category: meal
 cuisine: Bengali
 tags: [vegan, vegetarian, snack, fried]
 ingredients:
-  - name: chana dal
-    amount: 1/2
-    unit: cup
+  - name: urad dal
+    amount: 100
+    unit: grams
   - name: green chillies
-    amount: 2
-    unit: pcs
+    amount: 1
+    unit: piece
   - name: turmeric
     amount: 1/2
     unit: tsp
@@ -28,16 +28,42 @@ ingredients:
   - name: water
     amount: 1
     unit: cup
-  - name: chaat masala
+  - name: sugar
     amount: 1/2
     unit: tsp
   - name: flour
-    amount: 1 1/4
-    unit: cup
+    amount: 300
+    unit: grams
+  - name: asafoetida (hing)
+    amount: 1/2
+    unit: tsp
+  - name: fennel seed
+    amount: 1
+    unit: tsp
+  - name: ginger
+    amount: 10
+    unit: grams
+  - name: cumin powder
+    amount: 1
+    unit: tsp
 ---
 
-1. Take a bowl and add flour, salt and oil for all purposes. To make dough, add approx. 1⁄2 cup of room temperature water (add 1 tbsp at a time). Rest it for 10 minutes, once the dough is formed.
-2. Take a saucepan and stir in oil, sliced onion and garlic, and saute until soft. Add the dal and water, turmeric and salt for 5 minutes or until the dal is cooked slightly. Add pepper, Panch phoron, Chaat masala, Green chilli. Now cook until all of the water fully evaporates. Season with chopped coriander.
-3. Make small dough balls and add a spoonful of the prepared mixture. Into puris roll. Heat oil over medium flame in a pan, and fry the puris deeply. Remove the oil in excess, and serve hot.
+#### Prepare the filling
+
+1. Soak 100g urad dal overnight or 8 hrs and soak 1tsp of fennel seed for 30 minutes. 
+
+2. Grind the soaked urad dal, soaked fennel seed, 10g ginger and 1 green chilli to form a smooth paste. 
+
+3. Heat a pan with 2 tbsp of cooking oil, add 1/2 tsp of asafoetida and dal paste. Stir and mix well. After that add salt to taste, 1/2 tsp of sugar and 1/2 tsp of turmeric powder and mix well. Then add 1/2 tsp of chilli powder and 1 tsp of cumin powder. Mix very well again. When the dal mixture is dry and colour is golden yellow, set aside to cool down. Check the given video to replicate exactly.
+
+#### Prepare the kachori
+
+4. In a bowl add 300g flour, 1 tsbp of cooking oil, 1/2 tsp salt and mix well. Then add water and make a smooth dough. 
+
+5. Now take some dough, flatten it, put some dal filling and seal the edges. Form a ball and flatten again. See the video for better explanation.
+
+6. In a pan add enough cooking oil for deep frying. When the oil is very hot add kochuri (flattened stuff with the filling) one by one (if you have big pan add multiple at a time) fry it until it turns golden colour. 
+
+The hing kochuri is ready to enjoy. It goes best with the special potato curry. [Click here](www.lostauthenticrecipes.com/special-potato-curry) for the special potato curry recipe.
 
 ---
