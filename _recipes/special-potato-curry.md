@@ -54,7 +54,7 @@ ingredients:
     unit: tsp
 ---
 
-#### This curry goes best with [Hing Kachori](www.lostauthenticrecipes.com/hing-kachori) or [Dal Puri](www.lostauthenticrecipes.com/dal-puri).
+#### This curry goes best with [__*Hing Kachori*__](www.lostauthenticrecipes.com/hing-kachori) or [__*Dal Puri*__](www.lostauthenticrecipes.com/dal-puri).
 
 1. Boil or soak half cup of chana dal strain the water and set aside. 
 
@@ -70,6 +70,6 @@ ingredients:
 
 7. Add the crushed roasted spice (made in step 2) and mix well. 
 
-The special potato curry is ready to enjoy. It goes best with [Hing Kachori](www.lostauthenticrecipes.com/hing-kachori) or [Dal Puri](www.lostauthenticrecipes.com/dal-puri)
+The special potato curry is ready to enjoy. It goes best with [__*Hing Kachori*__](www.lostauthenticrecipes.com/hing-kachori) or [__*Dal Puri*__](www.lostauthenticrecipes.com/dal-puri)
 
 ---
