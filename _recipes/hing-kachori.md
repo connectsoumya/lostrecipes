@@ -64,6 +64,6 @@ ingredients:
 
 6. In a pan add enough cooking oil for deep frying. When the oil is very hot add kochuri (flattened stuff with the filling) one by one (if you have big pan add multiple at a time) fry it until it turns golden colour. 
 
-The hing kochuri is ready to enjoy. It goes best with the special potato curry. [Click here](www.lostauthenticrecipes.com/special-potato-curry) for the special potato curry recipe.
+The hing kochuri is ready to enjoy. It goes best with the special potato curry. [Click here](http://www.lostauthenticrecipes.com/special-potato-curry) for the special potato curry recipe.
 
 ---
