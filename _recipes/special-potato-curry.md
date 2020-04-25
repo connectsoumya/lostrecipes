@@ -70,6 +70,5 @@ This curry goes best with [__*Hing Kachori*__](http://www.lostauthenticrecipes.c
 
 7. Add the crushed roasted spice (made in step 2) and mix well. 
 
-The special potato curry is ready to enjoy. It goes best with [__*Hing Kachori*__](http://www.lostauthenticrecipes.com/hing-kachori) or [__*Dal Puri*__](http://www.lostauthenticrecipes.com/dal-puri)
-
+The special potato curry is ready to enjoy. It goes best with [__*Hing Kachori*__](http://www.lostauthenticrecipes.com/hing-kachori) or [__*Dal Puri*__](http://www.lostauthenticrecipes.com/dal-puri).
 ---
