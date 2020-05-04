@@ -7,10 +7,10 @@ ref: about
 
 > Hey there! Welcome to Lost Authentic Recipes
 
-Subscribe to our Youtube channel **[LostAuthenticRecipes](https://www.youtube.com/channel/UCBHk8EGYHmAYN2dYRv5RStQ?sub_confirmation=1)**.\
-Follow us on Instagram **[@lostauthenticrecipes](https://www.instagram.com/lostauthenticrecipes)**.\
-Follow us on Facebook **[Lost Authentic Recipes](https://www.facebook.com/Lost-Authentic-Recipes-105541647770491)**.\
-Join our Facebook group **[Lost Authentic Recipes](https://www.facebook.com/groups/227919998289600)**.\
+Subscribe to our Youtube channel **[LostAuthenticRecipes](https://www.youtube.com/channel/UCBHk8EGYHmAYN2dYRv5RStQ?sub_confirmation=1)**.<br>
+Follow us on Instagram **[@lostauthenticrecipes](https://www.instagram.com/lostauthenticrecipes)**.<br>
+Follow us on Facebook **[Lost Authentic Recipes](https://www.facebook.com/Lost-Authentic-Recipes-105541647770491)**.<br>
+Join our Facebook group **[Lost Authentic Recipes](https://www.facebook.com/groups/227919998289600)**.<br>
 Follow us on Twitter **[@lostauthenticrecipes](https://www.twitter.com/lostauthenticrecipes)**.
 
 My name is Suparna Chowdhury and I am very passionate about cooking. 
