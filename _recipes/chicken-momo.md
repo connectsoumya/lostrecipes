@@ -83,8 +83,16 @@ ingredients:
 6. For momo chutney in a pan put 1 tablespoon of oil then add black pepper, tomatoes, a small piece of ginger, red chilies, salt to taste, 2 cloves of garlic and 1 teaspoon cumin. Fry around 2 minutes, then let it cool and shift to a grinder. Then add tamarind water or lime juice, 2 green chillies, red chillies which are soaked in lukewarm water for 5 minutes. Grind all the spices to a smooth paste and  chutney is ready.
 
 
+#### Stuff used for cooking
 
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=lar0bf-21&marketplace=amazon&region=GB&placement=B0000C6WPC&asins=B0000C6WPC&linkId=c4331ca6f63dfd757d0bc2dd819f22c4&show_border=false&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+</iframe>
 
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ac&ref=tf_til&ad_type=product_link&tracking_id=lar0bf-21&marketplace=amazon&region=GB&placement=B01M2Y5TFQ&asins=B01M2Y5TFQ&linkId=007b2317b7e6ab157afdd742c7a6ba2d&show_border=false&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+</iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ac&ref=tf_til&ad_type=product_link&tracking_id=lar0bf-21&marketplace=amazon&region=GB&placement=B075WWQY2Y&asins=B075WWQY2Y&linkId=7c0dd5cac48953d7b7e62ee21285fb4e&show_border=false&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+</iframe>
 
 
 
