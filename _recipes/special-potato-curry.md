@@ -58,6 +58,8 @@ This curry goes best with [__*Hing Kachori*__](http://www.lostauthenticrecipes.c
 
 1. Boil or soak half cup of chana dal strain the water and set aside. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZWAjEY-BHhI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 2. Heat a pan, add 1 tsp of coriander seed, 1 tsp of cumin seed and 1 tsp of dried chilli whole or flakes. Let it cool down and crush to form a fine powder. 
 
 3. Take potato cut into small pieces (as shown in the video) with skin (IMPORTANT!!! Do not remove the skin). Heat 2-3 tbsp oil in a pan. Add 1/2 tsp panch foron, 2 dried red chillies or 1 tsp chilli flakes and 1/2 tsp asafoetida. Stir well. Next add the potatoes. 
