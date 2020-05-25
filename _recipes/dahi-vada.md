@@ -63,9 +63,10 @@ Click here for the [__*Tamarind Chutney*__](http://www.lostauthenticrecipes.com/
 #### Prepare the spice mix
 
 1. Heat a pan and add 1 tsp coriander, 1 tsp cumin, 2 dried chilli and dry roast it. Let it cool down.
-2. Use a mortar and pestle or spice grinder to grind the roasted spices.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c1ZBShDPwn4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+2. Use a mortar and pestle or spice grinder to grind the roasted spices.
 
 #### Prepare the bora/vada (fritters)
 
