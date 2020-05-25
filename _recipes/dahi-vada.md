@@ -68,6 +68,7 @@ Click here for the [__*Tamarind Chutney*__](http://www.lostauthenticrecipes.com/
 
 2. Use a mortar and pestle or spice grinder to grind the roasted spices.
 
+
 #### Prepare the bora/vada (fritters)
 
 3. Soak 200g urad dal overnight or 8 hrs.
