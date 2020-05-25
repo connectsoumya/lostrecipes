@@ -29,6 +29,9 @@ ingredients:
 ---
 
 1. For tamarind chutney you need to soak tamarind in hot water for 20 minutes. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZImBxEwwKx8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 2. Heat a pan add 1 tsp of panch foron, 1 dried chilli dry roast it and grind to a powder. 
 3. Then mash the pulp and remove the tamarind seed. Now the pulp is ready to process. 
 4. In a pan add little bit of hot water and add the tamarind pulp. When the pulp starts boiling ,add 1 tsp of red chilli powder, a pinch of salt, 30g of sugar and mix it well. 
