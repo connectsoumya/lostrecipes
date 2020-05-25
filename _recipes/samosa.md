@@ -55,6 +55,8 @@ ingredients:
 
 1. Cut the potatoes into small pieces as shown in the video. Cut the cauliflower into very small pieces, fry in oil until properly cooked and set aside.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kv6tqQjZ8ZU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 2. Now add 1 tsp of cumin seeds in the oil, add the potatoes and fry it for some time. 
 
 3. Now add some salt, 1 tsp of ginger paste, 1 tsp coriander powder, 1/2 tsp turmeric powder and mix well with the potatoes. Keep on frying for some more time. 
